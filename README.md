@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hecdeveloper
-- 👀 I’m interested in nasa, spacex
+- 👀 I’m interested in spacex
 - 🌱 I’m currently learning angular, python, react-native
 - 💞️ I’m looking to collaborate on react-native aps
 - 📫 How to reach me linkedIn: https://www.linkedin.com/in/hector-ibarra-rivas/
