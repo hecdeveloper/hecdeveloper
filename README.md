@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hecdeveloper
 - 👀 I’m interested in spacex
-- 🌱 I’m currently learning angular, python.
-- 💞️ I'm looking to collaborate on react-native apps
+- 🌱 I’m currently learning C# & python.
+- 💞️ I'm looking to collaborate on react-native projects
 - 📫 How to reach me linkedIn: https://www.linkedin.com/in/hector-ibarra-rivas/
 
 <!---
