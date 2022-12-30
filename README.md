@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hecdeveloper
+- 👋 Hi
 - 👀 I’m interested in spaceX and Nasa
 - 🌱 I’m currently learning python.
 - 💞️ I'm looking to collaborate on react-native projects
