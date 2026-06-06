@@ -1,7 +1,7 @@
 <h1 align="center">Hector Ibarra</h1>
 
 <p align="center">
-  Senior Full-Stack Engineer · React Native · Next.js · NestJS · AI Systems
+  Senior Full-Stack Engineer · React Native · Next.js · NestJS · Applied AI
 </p>
 
 <p align="center">
@@ -12,19 +12,29 @@
 
 ---
 
-I build production-ready web and mobile applications with a strong focus on frontend architecture, scalable TypeScript systems, and AI-enabled product workflows.
+I build web and mobile software with a focus on maintainable architecture, clear product execution, and practical AI integration.
 
-My work spans React, Next.js, React Native, NestJS, Python, cloud deployments, CI/CD, accessibility, and LLM-powered automation. I enjoy turning ambiguous product requirements into reliable software that ships.
+My background is frontend-heavy full-stack engineering: React, Next.js, React Native, TypeScript, NestJS, Python, PostgreSQL, cloud deployments, CI/CD, and accessibility. I work well in ambiguous product environments where the job is not only to write code, but to make sound technical decisions and ship reliable software.
 
-## Focus Areas
+## What I Work On
 
-- Full-stack product engineering with React, Next.js, React Native, Node.js, and NestJS
-- Agentic AI systems using Claude, Gemini, GPT-4, prompt engineering, RAG, and orchestration patterns
-- Frontend architecture, performance, accessibility, responsive UI, and design-system implementation
-- Cloud-native delivery with GCP, AWS, Docker, Terraform, Azure DevOps, and CI/CD pipelines
-- API design and integration across REST, GraphQL, PostgreSQL, MongoDB, Firebase, and Supabase
+- Production web and mobile applications with React, Next.js, React Native, Expo, and TypeScript
+- Backend services and API integrations with Node.js, NestJS, Python, PostgreSQL, REST, and GraphQL
+- Applied AI workflows using LLMs, structured prompts, extraction pipelines, and automation systems
+- Frontend architecture, accessibility, responsive UI, performance, and design-system implementation
+- Cloud deployment, release workflows, CI/CD, QA automation, and engineering process improvements
 
-## Tech Stack
+## Selected Experience
+
+| Area | Scope |
+| --- | --- |
+| Product Engineering | Built and maintained full-stack applications across web and mobile platforms |
+| Mobile Delivery | Worked with React Native, Expo, EAS builds, App Store workflows, and mobile-first QA |
+| Applied AI | Built LLM-assisted systems for classification, extraction, automation, and internal tooling |
+| Cloud & DevOps | Deployed services with GCP Cloud Run, Docker, Terraform, and Azure DevOps |
+| Engineering Operations | Improved review workflows, test coverage, release quality, and developer productivity |
+
+## Technical Stack
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1f2937?style=for-the-badge&logo=typescript&logoColor=3178C6" />
@@ -36,20 +46,16 @@ My work spans React, Next.js, React Native, NestJS, Python, cloud deployments, C
   <img alt="Python" src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1f2937?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-1f2937?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-1f2937?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-1f2937?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
 </p>
 
-## Recent Work
+## Engineering Principles
 
-- Built AI-driven systems that orchestrate multiple LLMs for classification, extraction, and product automation.
-- Delivered React Native, Expo, and Next.js applications with TypeScript across web and mobile.
-- Deployed cloud-native products using GCP Cloud Run, Docker, Terraform, and Azure DevOps.
-- Improved mobile-first user experiences, accessibility, performance, and release workflows.
-- Automated development and review workflows with parallel worktrees, GitHub APIs, and structured QA processes.
-
-## Engineering Style
-
-I care about clean architecture, pragmatic abstractions, measurable quality, and user-facing polish. I like systems that are easy to reason about, easy to test, and resilient enough to support real product teams.
+- Prefer simple systems that can evolve over clever systems that are hard to operate
+- Treat product quality, accessibility, performance, and reliability as engineering concerns
+- Use AI as leverage, not as a substitute for architecture, testing, or judgment
+- Write code that another engineer can safely understand, change, and ship
+- Make tradeoffs explicit and keep teams moving with clear technical direction
 
 ## Languages
 
@@ -58,4 +64,4 @@ I care about clean architecture, pragmatic abstractions, measurable quality, and
 
 ## Contact
 
-The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/hector-ibarra-rivas/).
+You can reach me through [LinkedIn](https://www.linkedin.com/in/hector-ibarra-rivas/).
